@@ -1,0 +1,17 @@
+.card_entrenador {
+    width: 50%;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.card-titulo {
+    color: white;
+}
+
+.info {
+    background-color: rgba(250, 250, 250, 0.5);
+    margin: 15px;
+    border-radius: 10px;
+    padding: 3px;
+}
